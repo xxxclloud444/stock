@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Mirae | 한국 주식 모의투자',
+  title: 'NOVA | 한국 주식 모의투자',
   description: '실제 돈 없이 배우는 한국 주식 모의투자 서비스',
   generator: 'v0.app',
   icons: {
